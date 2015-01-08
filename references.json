@@ -274,6 +274,12 @@
     "authors" : ["Ian Hickson"],
     "publisher" : "W3C"
   },
+  "ES6" :
+  {
+    "href" : "http://people.mozilla.org/~jorendorff/es6-draft.html",
+    "title" : "ECMA-262 6th Edition / Draft",
+    "publisher" : "ECMA / Jason Orendorff"
+  },
   "FILEAPI" :
   {
      "href" : "http://dev.w3.org/2006/webapi/FileAPI/",
