@@ -14,6 +14,7 @@
   "http": "network/http.json",
   "idna": "network/idna.json",
   "mime": "network/mime.json",
+  "promguide": "js/promisesguide.json",
   "selectors": "css/selectors.json",
   "sw": "dom/serviceworkers.json",
   "url" : "network/url.json",
