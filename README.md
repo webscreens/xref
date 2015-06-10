@@ -1,0 +1,1 @@
+# This fork is no longer maintained. Please use [whatwg/xref](https://github.com/whatwg/xref).
